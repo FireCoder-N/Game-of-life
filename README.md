@@ -26,7 +26,7 @@ When you finish all your moves, click on "End turn". The program will automatica
 
 If you want more information read the [wikipedia article](https://en.wikipedia.org/wiki/Conway's_Game_of_Life) or [try the game online](https://playgameoflife.com/).  
 
-In the screen there will be only displayed the number of shells alive in the last iteration. After about 2 seconds, the other palyer's turn will start.
+In the screen, only the shells alive in the last iteration will be displayed. After about 2 seconds, the other palyer's turn will start.
 
 ### Tips:
 - try to place your moves sensibly. Your goal is to have as many colored blocks as possible after the iterations, so that you get more points.
